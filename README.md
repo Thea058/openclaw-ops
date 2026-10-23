@@ -65,7 +65,7 @@
 
 | 文档 | 内容 |
 |---|---|
-| [部署笔记](docs/deployment.md) | 阶段 0–7 完整操作记录、10 个故障案例、知识点速查 |
+| [部署笔记](docs/deployment.md) | 阶段 0–7 完整操作记录、14 个故障案例、知识点速查 |
 | [命令速查](docs/commands.md) | OpenClaw 2026.10.5 的实际命令语法（以 `--help` 为准） |
 | [备份脚本](scripts/backup-openclaw.sh) | 每日自动备份 + 校验 + 按时间清理 |
 
